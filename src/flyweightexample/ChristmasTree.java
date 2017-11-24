@@ -3,9 +3,7 @@ package flyweightexample;
 //main demonstration of flyweight in action
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 //Tree with hard-coded number of branches
 public class ChristmasTree {
