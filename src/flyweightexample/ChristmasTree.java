@@ -21,7 +21,7 @@ public class ChristmasTree {
         initBranches();
     }
     
-    //generate branches 1 through 10 on the tree
+    //generate branches 0 through 9 on the tree
     private void initBranches(){
         for(int i = 0; i <= 9; i++){
             branches.add(new TreeBranch(i));
